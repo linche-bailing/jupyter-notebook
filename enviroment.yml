@@ -6,3 +6,4 @@ dependencies:
     - BeautifulSoup
     - random
     - bs4
+    - math
