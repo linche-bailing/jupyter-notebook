@@ -5,3 +5,4 @@ dependencies:
     - time
     - BeautifulSoup
     - random
+    - bs4
