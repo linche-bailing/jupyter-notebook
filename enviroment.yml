@@ -7,3 +7,5 @@ dependencies:
     - random
     - bs4
     - math
+    - Matplotlib
+    - numpy
